@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -215,7 +215,7 @@ ul li {
 
 .contact-info {
     margin-top: 2rem;
-    text-align: right;
+  
 }
 
 .contact-info p {
@@ -224,7 +224,7 @@ ul li {
     margin-bottom: 1.5rem;
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
 }
 
 .contact-info i.material-icons {
@@ -242,7 +242,7 @@ ul li {
     color: #ff6f61;
 }
 
-/* Responsive Styles */
+
 @media (max-width: 768px) {
     body {
         flex-direction: column;
