@@ -215,7 +215,11 @@ ul li {
 
 .contact-info {
     margin-top: 2rem;
+<<<<<<< HEAD
   
+=======
+ 
+>>>>>>> 8ee83ae90ed7dca73ff152472fb5850875d2e83d
 }
 
 .contact-info p {
@@ -224,7 +228,11 @@ ul li {
     margin-bottom: 1.5rem;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     justify-content: center;
+=======
+    justify-content:center;
+>>>>>>> 8ee83ae90ed7dca73ff152472fb5850875d2e83d
 }
 
 .contact-info i.material-icons {
